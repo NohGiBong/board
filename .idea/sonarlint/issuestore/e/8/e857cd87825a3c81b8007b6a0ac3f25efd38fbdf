@@ -1,0 +1,15 @@
+
+n
+java:S2259S"LA "NullPointerException" could be thrown; "uploadFileName" is nullable here.(ι θΓψÿÿÿÿ8ϊΫσ‰γ1
+k
+java:S2095e"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Δ‡±8ϊΫσ‰γ1
+‡
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(ν΅ρωÿÿÿÿ8όΫσ‰γ1
+L	java:S1066"+Replace this use of System.out by a logger.(·Ώΐ‘ψÿÿÿÿ8ƒάσ‰γ1
+I
+java:S1125E"'Remove the unnecessary boolean literal.(μΏθΏόÿÿÿÿ8άσ‰γ1
+G	java:S106J"+Replace this use of System.out by a logger.(³‘Χ8‹άσ‰γ1
+L	java:S106K"+Replace this use of System.out by a logger.(Κ’ΧΏÿÿÿÿÿ8‹άσ‰γ1
+G	java:S106L"+Replace this use of System.out by a logger.(θφ‰ε8άσ‰γ1
+G	java:S106T"+Replace this use of System.out by a logger.(–ΜΣϋ8άσ‰γ1
+L	java:S106p"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8‘άσ‰γ1
